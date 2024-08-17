@@ -4,7 +4,7 @@
 - 🔭 Atualmente estou trabalhando em Olinda industria de Colchoes Ortobom, como Aux admnistrativo nos setores de franquia, Suprimento e contabilidade.
 - 🌱 Atualmente estou aprendendo Phyton, Css, Html e Js.
 
-📫lucashebriqeu462@gmail.com
+📫lucashebrique462@gmail.com
 📞81 97102-4513
 📍 Olinda|PE
 
