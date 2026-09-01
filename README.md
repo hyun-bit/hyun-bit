@@ -1,11 +1,11 @@
 # Olá, me chamo Lucas ! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-- 🔭 Atualmente estou trabalhando em Olinda industria de Colchoes Ortobom, como Aux admnistrativo nos setores de franquia, Suprimento e contabilidade.
-- 🌱 Atualmente estou aprendendo Phyton, Css, Html e Js.
+- 🔭 Atualmente Cursando Si(sistema de informação).
+- 🌱 Atualmente estou aprendendo Phyton, C#, Java.
 
 📫lucashebrique462@gmail.com
-📞81 97102-4513
+📞81 99101-5617
 📍 Olinda|PE
 
 
@@ -33,5 +33,3 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyun-bit&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-
-![Snake animation](https://github.com/hyun-bit/hyun-bit/blob/output/github-contribution-grid-snake.svg)
